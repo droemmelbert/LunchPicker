@@ -2,15 +2,15 @@ import json
 import random
 import argparse
 
-# price
-veryOften = 6
-often = 4
-sometimes = 2
+# regularity
+veryOften = 10
+often = 6
+sometimes = 3
 seldom = 1
 
-# regularity
-cheap = 6
-medium = 4
+# price
+cheap = 4
+medium = 3
 expensive = 2
 veryExpensive = 1
 
