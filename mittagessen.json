@@ -1,0 +1,140 @@
+{
+  "Restaurants": [
+    {
+      "name": "Pyramides",
+      "price": "cheap",
+      "regularity": "very often",
+      "meals": [
+        "Falafel"
+      ]
+    },
+    {
+      "name": "Bistro Yen",
+      "price": "cheap",
+      "regularity": "seldom",
+      "meals": [
+        "Fried Rice",
+        "Fried Noodles"
+      ]
+    },
+    {
+      "name": "Dosenfutter",
+      "price": "cheap",
+      "regularity": "sometimes",
+      "meals": [
+        "Quinoa Eintopf",
+        "Kichererbsen Eintopf",
+        "Couscous Eintopf"
+      ]
+    },
+    {
+      "name": "La Cantina",
+      "price": "medium",
+      "regularity": "sometimes",
+      "meals": [
+        "something"
+      ],
+      "menu": "https://www.koala-hamburg.de/la-cantina-suppenkueche/"
+    },
+    {
+      "name": "Rewe",
+      "price": "cheap",
+      "regularity": "seldom",
+      "meals": [
+        "Tortellini"
+      ]
+    },
+    {
+      "name": "Cafe Coffeine",
+      "price": "cheap",
+      "regularity": "sometimes",
+      "meals": [
+        "Chili sin Carne"
+      ]
+    },
+    {
+      "name": "Kumpir",
+      "price": "medium",
+      "regularity": "seldom",
+      "meals": [
+        "Kumpir"
+      ]
+    },
+    {
+      "name": "Balutschistan",
+      "price": "medium",
+      "regularity": "seldom",
+      "meals": [
+        "something"
+      ],
+      "menu": "https://www.restaurant-balutschistan.com/wp-content/uploads/2019/08/mittagskarte.pdf"
+    },
+    {
+      "name": "Anatolian Street Food",
+      "price": "medium",
+      "regularity": "seldom",
+      "meals": [
+        "Falafel Dürüm"
+      ]
+    },
+    {
+      "name": "Mercado Nudeln",
+      "price": "medium",
+      "regularity": "sometimes",
+      "meals": [
+        "Nudeln"
+      ]
+    },
+    {
+      "name": "Vöner",
+      "price": "medium",
+      "regularity": "sometimes",
+      "meals": [
+        "Vöner"
+      ]
+    },
+    {
+      "name": "Lily of the Valley",
+      "price": "expensive",
+      "regularity": "seldom",
+      "meals": [
+        "something"
+      ],
+      "menu": "https://www.lily-hamburg.de/"
+    },
+    {
+      "name": "My House",
+      "price": "expensive",
+      "regularity": "sometimes",
+      "meals": [
+        "Vegan Duck"
+      ]
+    },
+    {
+      "name": "Madame Mai",
+      "price": "expensive",
+      "regularity": "seldom",
+      "meals": [
+        "something"
+      ],
+      "menu": "https://05df90bf-ada1-45b7-98ff-b7bb6669ab70.filesusr.com/ugd/7add36_f852358661134b79976b41789aaaf954.pdf"
+    },
+    {
+      "name": "Schnibbelpizza",
+      "price": "expensive",
+      "regularity": "seldom",
+      "meals": [
+        "Pizza"
+      ]
+    },
+    {
+      "name": "Kimchi Guys",
+      "price": "rich",
+      "regularity": "seldom",
+      "meals": [
+        "something"
+      ],
+      "menu": "https://kimchiguys.de/fooddrinks"
+    }
+  ]
+}
