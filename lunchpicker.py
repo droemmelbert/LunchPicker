@@ -1,6 +1,7 @@
 import json
 import random
 import argparse
+import os
 
 # regularity
 veryOften = 10
@@ -15,7 +16,9 @@ expensive = 2
 veryExpensive = 1
 
 # load lunch.json
-with open('./lunch.json') as f:
+cwd = os.path.dirname(os.path.realpath(__file__))
+jsonLocation = cwd + '/lunch.json'
+with open(jsonLocation) as f:
     options = json.load(f)
 
 restaurants = options.get('Restaurants')
