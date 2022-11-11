@@ -14,8 +14,8 @@ medium = 3
 expensive = 2
 veryExpensive = 1
 
-# load mittagessen.json
-with open('./mittagessen.json') as f:
+# load lunch.json
+with open('./lunch.json') as f:
     options = json.load(f)
 
 restaurants = options.get('Restaurants')
