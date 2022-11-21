@@ -4,8 +4,8 @@ import argparse
 import os
 
 # regularity
-veryOften = 10
-often = 6
+veryOften = 20
+often = 10
 sometimes = 3
 seldom = 1
 

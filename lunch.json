@@ -3,7 +3,7 @@
     {
       "name": "Pyramides",
       "price": "cheap",
-      "regularity": "very often",
+      "regularity": "often",
       "meals": [
         "Falafel"
       ]
@@ -18,7 +18,7 @@
       ]
     },
     {
-      "name": "Dosenfutter",
+      "name": "Alnatura",
       "price": "cheap",
       "regularity": "sometimes",
       "meals": [
@@ -70,14 +70,6 @@
       "menu": "https://www.restaurant-balutschistan.com/wp-content/uploads/2019/08/mittagskarte.pdf"
     },
     {
-      "name": "Anatolian Street Food",
-      "price": "medium",
-      "regularity": "seldom",
-      "meals": [
-        "Falafel Dürüm"
-      ]
-    },
-    {
       "name": "Mercado Nudeln",
       "price": "medium",
       "regularity": "sometimes",
@@ -100,7 +92,7 @@
       "meals": [
         "something"
       ],
-      "menu": "https://www.lily-hamburg.de/"
+      "menu": "https://www.lily-hamburg.de/#speisekarte"
     },
     {
       "name": "My House",
